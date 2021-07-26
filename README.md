@@ -1,4 +1,4 @@
-# It's me Mari Setogaya :)
+# Best Programmer in NA
 
 <!--
 **setogaya/setogaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
